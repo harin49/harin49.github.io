@@ -16,11 +16,12 @@
 title: Hari Narayanan
 email: hari.narayananj94@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of blogs to record weekend learnings and tech thoughts.
+  Thank you Github and Jekyll <3
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: harithegooner
 github_username:  harinj49
+linkedin_username: hari-narayanan-44847011b
 
 # Build settings
 markdown: kramdown
