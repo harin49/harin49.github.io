@@ -4,6 +4,7 @@ title: Something about me!
 permalink: /about/
 ---
 
-An attempt to explore and record programming, software development outside of work and so this blog. 
-UI developer slowly treading towards being a polyglot programmer with a tick for technology, programming and football(gooner). 
-you can follow me on [twitter](https://twitter.com/harithegooner) as well!
+Hey! I'm a UI developer at [Thoughtworks](https://www.thoughtworks.com), slowly treading towards being a polyglot programmer with a tick for technology, programming and football(gooner). 
+
+This blog of mine is an attempt to explore and record whatever helped me to get things done!
+Reach out to me on Twitter or linkedin !
