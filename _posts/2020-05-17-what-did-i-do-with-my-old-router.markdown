@@ -2,7 +2,7 @@
 layout: post
 title:  "What did I do with my old router?"
 date:   2020-05-17 23:54:00 GMT+0530 
-categories: extend Wi-Fi range
+categories: extend_Wi-Fi_range
 ---
 Before we dig into the post! I just want to give myself a pat for finally sitting down to write blogs! I've been deliberating about this for quite some time now. Hopefully, I'll continue this practice on a regular basis!
 
