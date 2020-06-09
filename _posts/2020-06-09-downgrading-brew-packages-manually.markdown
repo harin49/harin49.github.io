@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "downgrading brew packages manually?"
+title:  "Downgrading brew packages manually?"
 date:   2020-06-09 22:00:00 GMT+0530 
 categories: downgrade_brew_packages_manually
 ---
