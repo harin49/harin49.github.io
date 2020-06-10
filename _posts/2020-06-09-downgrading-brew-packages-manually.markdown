@@ -2,7 +2,6 @@
 layout: post
 title:  "Downgrading brew packages manually?"
 date:   2020-06-09 22:00:00 GMT+0530 
-categories: downgrade_brew_packages_manually
 ---
 
 I recently had to install a downgraded version of a brew package - [react-native-debugger](https://github.com/jhen0409/react-native-debugger), but dang! [Homebrew](https://brew.sh/) did not have a separate formula for that specific version of react-native-debugger. I had to find a way to manually choose the required version available in homebrew and install it. I've enumerated the steps required below! 
